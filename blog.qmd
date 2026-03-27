@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "An Infinite Hazelnut Tree: a Mathematical Blog"
 listing:
   contents: blogPosts
   sort: "date desc"
@@ -10,3 +10,8 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+![The $E_6$ Dynkin diagram - illustrated by [Emily Windes](https://emilyautumnwindes.com)](E6_cover.png)
+
+The namesake of the blog comes from Grothendieck's famous quote from *Récoltes et Semailles*, where he likened the art of mathematical problem solving to trying to crack open a hard nut.
+In this blog, you will find a random assortment of nuts that currently interest me, that is articles about mathematical ideas and problems I find interesting and topics I am currently trying to learn.

@@ -8,8 +8,12 @@ website:
     left:
       - href: research.qmd
         text: Research
+      - href: talks.qmd
+        text: Talks
       - href: teaching.qmd
         text: Teaching
+      - href: outreach.qmd
+        text: Outreach
       - href: blog.qmd
         text: Blog
 
