@@ -8,11 +8,12 @@ title: "Hello!"
 ::: {.column width="55%"}
 I'm Moaaz. I am currently a Mathematics PhD candidate at the University of Oregon, expecting to graduate in 2027.
 I am fortunate to be working under the supervision of [Victor Ostrik](https://pages.uoregon.edu/vostrik/).
+Before that, I completed my bachelors degree in mathematics with minors in physics and computer science at the American University in Cairo.
 
 Here is my [CV](cv.pdf){target="_blank"} - last updated: March, 2026
 
 
-________________________
+_____________________
 
 **Contact Information**
 
@@ -21,7 +22,7 @@ email: [malqady@uoregon.edu](mailto:malqady@uoregon.edu)
 
 Office: Fenton Hall 314-D,
 
-         University of Oregon
+        University of Oregon
 
 Office Hours: Mondays & Fridays 1-2 pm
 :::

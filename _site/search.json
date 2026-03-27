@@ -11,21 +11,21 @@
     "href": "index.html",
     "title": "Hello!",
     "section": "",
-    "text": "I’m Moaaz. I am currently a Mathematics PhD candidate at the University of Oregon, expecting to graduate in 2027. I am fortunate to be working under the supervision of Victor Ostrik.\nHere is my CV - last updated: March, 2026\n\nContact Information\nemail: malqady@uoregon.edu\nOffice: Fenton Hall 314-D,\n     University of Oregon\nOffice Hours: Mondays & Fridays 1-2 pm"
+    "text": "I’m Moaaz. I am currently a Mathematics PhD candidate at the University of Oregon, expecting to graduate in 2027. I am fortunate to be working under the supervision of Victor Ostrik. Before that, I completed my bachelors degree in mathematics with minors in physics and computer science at the American University in Cairo.\nHere is my CV - last updated: March, 2026\n\nContact Information\nemail: malqady@uoregon.edu\nOffice: Fenton Hall 314-D,\n     University of Oregon\nOffice Hours: Mondays & Fridays 1-2 pm"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Here is where I will talk about my research."
+    "text": "My research lies primarily in the areas of representation theory and quantum algebra. More specifically, I study tensor categories and representation theory of quantum groups. I am also interested in their applications to the study of topological quantum field theory, topological quantum computing, and invariants of links and manifolds.\nMy current projects include:\nI am happy to give seminar talks about my research. If you are interested, please send me an email :)"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Here is where I will list my teaching experience."
+    "text": "I am happy to share any materials I have for the courses I taught before. Please send me an email if you are interested."
   },
   {
     "objectID": "index.html#footnotes",
@@ -37,9 +37,9 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "An Infinite Hazelnut Tree: a Mathematical Blog",
+    "title": "An Infinite Hazelnut Tree - شجرة بندق لا نهائية",
     "section": "",
-    "text": "The \\(E_6\\) Dynkin diagram - illustrated by Emily Windes\n\n\nThe namesake of the blog comes from Grothendieck’s famous quote from Récoltes et Semailles, where he likened the art of mathematical problem solving to trying to crack open a hard nut. In this blog, you will find a random assortment of nuts that currently interest me, that is articles about mathematical ideas and problems I find interesting and topics I am currently trying to learn.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My New Blog\n\n\n\nnews\n\nquarto\n\n\n\nA short description that will show up on the blog feed.\n\n\n\n\n\nMar 27, 2026\n\n\nYour Name\n\n\n\n\n\nNo matching items"
+    "text": "The \\(E_6\\) Dynkin diagram - illustrated by Emily Windes\n\n\nThe namesake of the blog comes from Grothendieck’s famous quote from Récoltes et Semailles, where he likened the art of mathematical problem solving to trying to crack open a hard nut. In this blog, you will find a random assortment of nuts that I find especially interesting from the beautiful tree of mathematics.\nSome posts will be intended for general audience with no formal mathematical training (tagged “general audience”), some will be at the undergraduate level and assume some basic undergraduate math knowledge (tagged: “undergrad”), and others will be expositions on topics I am thinking/learning about in my own research area (tagged: “research”). The “general audience” posts will be written in Arabic and English as an attempt to give people who have not (yet) started learning mathematics in English the opportunity to see what mathematics is about beyond the high school level; such a resource was not available to me when I was a young student myself, and that’s my main motivation for making this blog: to share the beauty of mathematics to native Arabic speakers at the broadest possible level.\nتستمد هذه المدوّنة اسمها من مقولة شهيرة لعالم الرياضيات “جروتينديك” في كتابه Récoltes et Semailles، حيث شبّه فن حل المسائل الرياضية بمحاولة كسر قشرة حبة بندق صلبة. في هذه المدوّنة، ستجدون تشكيلة عشوائية من “حبات البندق” التي أجدها مثيرة للاهتمام، مقتطفات من شجرة الرياضيات الجميلة.\nستكون بعض المنشورات موجهة لجمهور عام لا يمتلك تدريباً رياضياً أكاديمياً مسبقاً (مُصنَّفة بـ“general audience”)؛ بينما سيأتي بعضها الآخر بمستوى المرحلة الجامعية الأولى، ويفترض وجود معرفة رياضية أساسية تليق بهذا المستوى (مُصنَّفة بـ: “undergrad”)؛ أما المنشورات المتبقية، فستكون عبارة عن تأملات حول موضوعات أفكر فيها أو أتعلمها ضمن مجال بحثي التخصصي (مُصنَّفة بـ: “research”). وستُكتب المنشورات الموجهة لـ “الجمهور العام” باللغتين العربية والإنجليزية، في محاولةٍ لإتاحة الفرصة لأولئك الذين لم يشرعوا (بعد) في دراسة الرياضيات باللغة الإنجليزية، للاطّلاع على ماهية الرياضيات وما تنطوي عليه من مفاهيم تتجاوز حدود المناهج المدرسية. عندما كنتُ طالباً صغيراً، لم اتمكن من ايجاد مثل هذا المصدر؛ وهذا السبب تحديداً هوا ما يدفعني لإنشاء هذه المدوّنة: مشاركة جمال الرياضيات مع الناطقين باللغة العربية على أوسع نطاقٍ ممكن.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My New Blog\n\n\n\nnews\n\nquarto\n\n\n\nA short description that will show up on the blog feed.\n\n\n\n\n\nMar 27, 2026\n\n\nYour Name\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blogPosts/welcome/index.html",
@@ -53,7 +53,7 @@
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "Here is where I will list my outreach experience."
+    "text": "Despite having been fascinated by mathematics from a very young age, it was only later in life that I realized one can be a mathematician as their job, or indeed what a mathematician even was. Along my mathematical journey, I had excellent mentorship from countless people, a privilege not many people experience. I hope to repay this kindness by sharing my passion for mathematics with young aspiring mathematicians.\nI held some roles in community/outreach organizations, including\n\nUniversity of Oregon’s AWM Student Chapter:\n\nVice president 2025-2026\nMember of K-12 Committee 2024-2026\nMember of the speaker series 2023-2026\n\nUniversity of Oregon’s AMS Student Chapter Diversity chair 2024-2025\n\nHere are some of the community outreach experiences I was part of in the past:\n\nGirls’ Science Adventure Program (2025, 2026)\nIn the K-12 committee of the University of Oregon’s AWM Student Chapter, every year we organize a day of fun mathematics stations to teach elementary school girls about beautiful mathematics . I was an organizer/station manager for this program in 2025 and 2026.\nEugene Youth Math Festival\nEvery winter at the University of Oregon, hundreds of kids and their parents come to experience the joy of mathematics. We put together 50+ stations to teach/play different mathematical activities ranging from sound and waves, to knot theory and doodling. I was an organizer/station manager in the Math Festivals of 2024 and 2026.\nContact the main organizer/founder of the festival Maria Nemirovskaya to join us next year!\nCairo Undergraduate Summer Workshops\nTogether with Hussein Olama, we organized two workshops that brought together undergraduate students from various Egyptian Universities to learn more advanced mathematics topics.\nSo far, we had two successful workshops:\n\nRepresentation Theory of Finite Groups, 2024\nAlgebraic Geometry, 2025\n\nWe hope to continue this tradition in the future!\nDirected Reading Program\nI was the mentor to 4 undergraduate students in a reading program where we read a piece of mathematics not typically encountered in standard undergraduate programs. After 10 weeks of reading, the students then do a presentation on the topic to their peers in a fun day of pizza and math. The topics I supervised so far were\n\nDiophantine Approximations and Transcendental Numbers, 2024\nCombinatorial Game Theory and Surreal Numbers, 2025\nLie Groups and Lie Algebras in the Foundations of Quantum Field Theory, 2025\n\n\nI am happy to join mentorship programs, summer schools, etc. so if you are looking for someone who won’t shut up about cool math to join your program, send me an email."
   },
   {
     "objectID": "talks.html",
@@ -61,5 +61,54 @@
     "title": "Talks",
     "section": "",
     "text": "Here is where I will list my past and upcoming talks."
+  },
+  {
+    "objectID": "research.html#my-current-projects-include",
+    "href": "research.html#my-current-projects-include",
+    "title": "Research",
+    "section": "My current projects include:",
+    "text": "My current projects include:"
+  },
+  {
+    "objectID": "research.html#papers-and-preprints",
+    "href": "research.html#papers-and-preprints",
+    "title": "Research",
+    "section": "Papers and Preprints",
+    "text": "Papers and Preprints\n\nThe Drinfeld Center of the Generic Temperley–Lieb Category. Preprint, 2026. arXiv: ???\nWe show that the Temperley–Lieb category \\(\\mathrm{TL}(q;\\mathbb{C})\\) embeds in an ultraproduct of modular tensor categories when \\(q\\) is not a root of unity. As a result, we show that its Drinfeld center is semisimple and describe its simple objects. The canonical functor \\[\\mathrm{TL}(q;\\mathbb{C})\\boxtimes \\mathrm{TL}(q;\\mathbb{C})^{\\mathrm{rev}} \\boxtimes \\mathrm{Rep}(\\mathbb{Z}/2\\mathbb{Z}) \\to \\mathcal Z(\\mathrm{TL}(q;\\mathbb{C})),\\] induced by the braiding and the \\(\\mathbb{Z}/2\\mathbb{Z}\\)–grading on the Temperley–Lieb category, is thus shown to be a monoidal equivalence, which becomes a braided equivalence upon twisting the braiding by a certain bicharacter. Along the way, we formalize some general results about ultraproducts of tensor categories and tensor functors, building on earlier works of Crumley, Harman, and Flake–Harman–Laugwitz. We also discuss the center at some exceptional values of \\(q\\).\nA Coboundary Temperley–Lieb Category for \\(\\mathfrak{sl}_{2}\\)-Crystals. Joint with Mateusz Stroiński. J. London Math. Soc., 112: e70283, 2025.\nBy considering a suitable renormalization of the Temperley–Lieb category, we study its specialization to the case \\(q=0\\). Unlike the \\(q\\neq 0\\) case, the obtained monoidal category, \\(\\mathrm{TL}_0(\\mathbb{K})\\), is not rigid or braided. We provide a closed formula for the Jones–Wenzl projectors in \\(\\mathrm{TL}_0(\\mathbb{K})\\) and give semisimple bases for its endomorphism algebras. We explain how to obtain the same basis using the representation theory of finite inverse monoids, via the associated Möbius inversion. We then describe a coboundary structure on \\(\\mathrm{TL}_0(\\mathbb{K})\\) and show that its idempotent completion is coboundary monoidally equivalent to the category of \\(\\mathfrak{sl}_{2}\\)-crystals. This gives a diagrammatic description of the commutor for \\(\\mathfrak{sl}_{2}\\)-crystals defined by Henriques and Kamnitzer and of the resulting action of the cactus group. We also study fiber functors of \\(\\mathrm{TL}_0(\\mathbb{K})\\) and discuss how they differ from the \\(q\\neq 0\\) case."
+  },
+  {
+    "objectID": "research.html#ancient-history",
+    "href": "research.html#ancient-history",
+    "title": "Research",
+    "section": "Ancient History:",
+    "text": "Ancient History:"
+  },
+  {
+    "objectID": "research.html#undergraduate-work",
+    "href": "research.html#undergraduate-work",
+    "title": "Research",
+    "section": "Undergraduate Work",
+    "text": "Undergraduate Work\n\nDistinct Distances with \\(\\ell_p\\) Metrics. Joint with Polymath REU. Computational Geometry 100:101785, 2022. This paper received the Journal’s award for best paper written by authors under 35 years old, yay!\nWe study Erdős’s distinct distances problem under \\(\\ell_p\\) metrics with integer \\(p\\). We prove that, for every \\(\\varepsilon&gt;0\\) and \\(n\\) points in \\(\\mathbb{R}^2\\), there exists a point that spans \\(\\Omega(n^{6/7-\\varepsilon})\\) distinct distances with the other \\(n-1\\) points. This improves upon the previous best bound of \\(\\Omega(n^{4/5})\\). We also characterize the sets that span an asymptotically minimal number of distinct distances under the \\(\\ell_1\\) and \\(\\ell_\\infty\\) metrics.\nI wrote an expository undergraduate thesis on the fundamental group of wild (non-semilocally simply-connected) spaces"
+  },
+  {
+    "objectID": "research.html#upcoming-papers",
+    "href": "research.html#upcoming-papers",
+    "title": "Research",
+    "section": "Upcoming papers",
+    "text": "Upcoming papers\n\nCrystal Spiders for Rank 2 Lie Algebras.\nWe give a diagrammatic monoidal presentation of the categories of \\(\\mathfrak g\\)-crystals, where \\(\\mathfrak{g}\\) is a rank 2 Lie algebra. We study those diagrammatic categories, their Jones-Wenzl projectors, cactus actions, etc."
+  },
+  {
+    "objectID": "teaching.html#department-of-mathematics-university-of-oregon",
+    "href": "teaching.html#department-of-mathematics-university-of-oregon",
+    "title": "Teaching",
+    "section": "Department of Mathematics, University of Oregon",
+    "text": "Department of Mathematics, University of Oregon\nI was the main instructor for the following courses:\n\nMATH 307: Introduction to Proofs - Fall 2024, Fall 2025 - Lecture notes\nMATH 232: Discrete Mathematics II - Spring 2024\nMATH 252: Calculus II - Summer 2023\nMATH 111: College Algebra - Winter 2022, Summer 2022, Winter 2024\nMATH 112: Elementary Functions - Spring 2022, Fall 2023\n\nI was a teaching assistant for the following courses:\n\nMATH 241: Business Calculus I - Winter 2023\nMATH 243: Introductory Probability and Statistics - Fall 2022, Spring 2023\nMATH 111: College Algebra - Fall 2021\n\nI was a grader for the following courses:\n\nMATH 446/546: Introduction to Abstract Algebra III - Spring 2026\nMATH 411/511: Functions of a Complex Variable I - Spring 2026\nMATH 461/561: Introduction to Mathematical Methods of Statistics I - Fall 2025\nMATH 649: Abstract Algebra III - Spring 2025"
+  },
+  {
+    "objectID": "teaching.html#department-of-mathematics-and-actuarial-science-auc",
+    "href": "teaching.html#department-of-mathematics-and-actuarial-science-auc",
+    "title": "Teaching",
+    "section": "Department of Mathematics and Actuarial Science, AUC",
+    "text": "Department of Mathematics and Actuarial Science, AUC\nI was an undergraduate teaching assistant for the following courses:\n\nMACT 4134: Abstract Algebra - Fall 2020\nMACT 2131: Discrete Mathematics - Fall 2018"
   }
 ]

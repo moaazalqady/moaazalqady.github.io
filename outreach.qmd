@@ -3,4 +3,55 @@ title: "Outreach"
 title-block-banner: true
 ---
 
-Here is where I will list my outreach experience.
+Despite having been fascinated by mathematics from a very young age, it was only later in life that I realized one can be a mathematician as their job, or indeed what a mathematician even was.
+Along my mathematical journey, I had excellent mentorship from countless people, a privilege not many people experience.
+I hope to repay this kindness by sharing my passion for mathematics with young aspiring mathematicians.
+
+[I held some roles in community/outreach organizations, including]{style="font-size: 1.2em;"}
+
+- [University of Oregon's AWM Student Chapter](https://sites.google.com/view/uo-awm/):
+   - Vice president 2025-2026
+   - Member of K-12 Committee 2024-2026
+   - Member of the speaker series 2023-2026
+
+
+- University of Oregon's AMS Student Chapter
+    Diversity chair 2024-2025
+
+[Here are some of the community outreach experiences I was part of in the past:]{style="font-size: 1.2em;"}
+
+- Girls’ Science Adventure Program (2025, 2026)
+
+    In the K-12 committee of the University of Oregon's AWM Student Chapter, every year we organize a day of fun mathematics stations to teach elementary school girls about beautiful mathematics .
+    I was an organizer/station manager for this program in 2025 and 2026.
+
+- [Eugene Youth Math Festival](https://blogs.uoregon.edu/mathfestival/)
+
+    Every winter at the University of Oregon, hundreds of kids and their parents come to experience the joy of mathematics.
+    We put together 50+ stations to teach/play different mathematical activities ranging from sound and waves, to knot theory and doodling.
+    I was an organizer/station manager in the Math Festivals of 2024 and 2026.
+
+    [Contact the main organizer/founder of the festival [Maria Nemirovskaya](https://cas.uoregon.edu/directory/mathematics/all/nemirovm) to join us next year!]{style="color: #0D7758; font-size: 0.8em;"}
+
+- Cairo Undergraduate Summer Workshops
+
+    Together with [Hussein Olama](https://sites.google.com/view/husseinolama/), we organized two workshops that brought together undergraduate students from various Egyptian Universities to learn more advanced mathematics topics.
+
+    So far, we had two successful workshops:
+
+    - [Representation Theory of Finite Groups, 2024](https://sites.google.com/aucegypt.edu/algebra-representationtheory)
+    - [Algebraic Geometry, 2025](https://sites.google.com/aucegypt.edu/aucmaths-workshop-s25/algebraic-geometry-workshop)
+
+    We hope to continue this tradition in the future!
+
+- Directed Reading Program
+
+    I was the mentor to 4 undergraduate students in a reading program where we read a piece of mathematics not typically encountered in standard undergraduate programs.
+    After 10 weeks of reading, the students then do a presentation on the topic to their peers in a fun day of pizza and math.
+    The topics I supervised so far were
+
+    - Diophantine Approximations and Transcendental Numbers, 2024
+    - Combinatorial Game Theory and Surreal Numbers, 2025
+    - Lie Groups and Lie Algebras in the Foundations of Quantum Field Theory, 2025
+
+[I am happy to join mentorship programs, summer schools, etc. so if you are looking for someone who won't shut up about cool math to join your program, send me an email.]{style="color: #0D7758; font-size: 1em;"}

@@ -1,6 +1,53 @@
 ---
 title: "Teaching"
 title-block-banner: true
+toc: false
 ---
 
-Here is where I will list my teaching experience.
+[I am happy to share any materials I have for the courses I taught before. Please send me an email if you are interested.]{style="color: #0D7758; font-size: 0.8em;"}
+
+## Department of Mathematics, University of Oregon
+
+
+I was the main instructor for the following courses:
+
+- MATH 307: Introduction to Proofs - Fall 2024, Fall 2025 - [Lecture notes](intoToProofs_lectureNotes.pdf){target="_blank"}
+
+- MATH 232: Discrete Mathematics II - Spring 2024
+
+- MATH 252: Calculus II - Summer 2023
+
+- MATH 111: College Algebra - Winter 2022, Summer 2022, Winter 2024
+
+- MATH 112: Elementary Functions - Spring 2022, Fall 2023
+
+
+I was a teaching assistant for the following courses:
+
+- MATH 241: Business Calculus I - Winter 2023
+
+- MATH 243: Introductory Probability and Statistics - Fall 2022, Spring 2023
+
+- MATH 111: College Algebra - Fall 2021
+
+
+I was a grader for the following courses:
+
+- MATH 446/546: Introduction to Abstract Algebra III - Spring 2026
+
+- MATH 411/511: Functions of a Complex Variable I - Spring 2026
+
+- MATH 461/561: Introduction to Mathematical Methods of Statistics I - Fall 2025
+
+- MATH 649: Abstract Algebra III - Spring 2025
+
+
+
+## Department of Mathematics and Actuarial Science, AUC
+
+I was an undergraduate teaching assistant for the following courses:
+
+- MACT 4134: Abstract Algebra - Fall 2020
+
+- MACT 2131: Discrete Mathematics - Fall 2018
+

@@ -1,6 +1,60 @@
 ---
 title: "Research"
 title-block-banner: true
+toc: false
 ---
 
-Here is where I will talk about my research.
+
+My research lies primarily in the areas of representation theory and quantum algebra.
+More specifically, I study tensor categories and representation theory of quantum groups.
+I am also interested in their applications to the study of topological quantum field theory, topological quantum computing, and invariants of links and manifolds.
+
+My current projects include:
+
+- Web categories arising from crystal limits of quantum group representations.
+
+- Drinfeld centers of tensor categories arising from quantum group representations.
+
+[I am happy to give seminar talks about my research. If you are interested, please send me an email :)]{style="color: #0D7758; font-size: 1em;"}
+
+
+## Papers and Preprints
+
+- The Drinfeld Center of the Generic Temperley--Lieb Category. Preprint, 2026. [arXiv: ???](???)
+
+    We show that the Temperley--Lieb category $\mathrm{TL}(q;\mathbb{C})$ embeds in an ultraproduct of modular tensor categories when $q$ is not a root of unity.
+	As a result, we show that its Drinfeld center is semisimple and describe its simple objects.
+	The canonical functor $$\mathrm{TL}(q;\mathbb{C})\boxtimes \mathrm{TL}(q;\mathbb{C})^{\mathrm{rev}} \boxtimes \mathrm{Rep}(\mathbb{Z}/2\mathbb{Z}) \to \mathcal Z(\mathrm{TL}(q;\mathbb{C})),$$ induced by the braiding and the $\mathbb{Z}/2\mathbb{Z}$--grading on the Temperley--Lieb category, is thus shown to be a monoidal equivalence, which becomes a braided equivalence upon twisting the braiding by a certain bicharacter.
+	Along the way, we formalize some general results about ultraproducts of tensor categories and tensor functors, building on earlier works of Crumley, Harman, and Flake--Harman--Laugwitz.
+	We also discuss the center at some exceptional values of $q$.
+
+- A Coboundary Temperley–Lieb Category for $\mathfrak{sl}_{2}$-Crystals. Joint with [Mateusz Stroiński](https://sites.google.com/view/stroinski). [J. London Math. Soc., 112: e70283](https://doi.org/10.1112/jlms.70283), 2025.
+
+    By considering a suitable renormalization of the Temperley--Lieb category, we study its specialization to the case $q=0$. Unlike the $q\neq 0$ case, the obtained monoidal category, $\mathrm{TL}_0(\mathbb{K})$, is not rigid or braided.
+    We provide a closed formula for the Jones--Wenzl projectors in $\mathrm{TL}_0(\mathbb{K})$ and give semisimple bases for its endomorphism algebras.
+    We explain how to obtain the same basis using the representation theory of finite inverse monoids, via the associated Möbius inversion.
+    We then describe a coboundary structure on $\mathrm{TL}_0(\mathbb{K})$ and show that its idempotent completion is coboundary monoidally equivalent to the category of $\mathfrak{sl}_{2}$-crystals.
+    This gives a diagrammatic description of the commutor for $\mathfrak{sl}_{2}$-crystals defined by Henriques and Kamnitzer and of the resulting action of the cactus group.
+    We also study fiber functors of $\mathrm{TL}_0(\mathbb{K})$ and discuss how they differ from the $q\neq 0$ case.
+
+
+## Upcoming papers
+
+- Crystal Spiders for Rank 2 Lie Algebras.
+
+    We give a diagrammatic monoidal presentation of the categories of $\mathfrak g$-crystals, where $\mathfrak{g}$ is a rank 2 Lie algebra.
+    We study those diagrammatic categories, their Jones-Wenzl projectors, cactus actions, etc.
+
+
+
+## Undergraduate Work
+
+- Distinct Distances with $\ell_p$ Metrics. Joint with Polymath REU. [Computational Geometry 100:101785](https://doi.org/10.1016/j.comgeo.2021.101785), 2022.
+[This paper received the Journal's award for best paper written by authors under 35 years old, yay!]{style="color: #0D7758; font-size: 0.8em;"}
+
+    We study Erdős's distinct distances problem under $\ell_p$ metrics with integer $p$.
+    We prove that, for every $\varepsilon>0$ and $n$ points in $\mathbb{R}^2$, there exists a point that spans $\Omega(n^{6/7-\varepsilon})$ distinct distances with the other $n-1$ points.
+    This improves upon the previous best bound of $\Omega(n^{4/5})$.
+    We also characterize the sets that span an asymptotically minimal number of distinct distances under the $\ell_1$ and $\ell_\infty$ metrics.
+
+- I wrote an expository [undergraduate thesis](undergradThesis.pdf){target="_blank"} on the fundamental group of wild (non-semilocally simply-connected) spaces
