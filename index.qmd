@@ -1,7 +1,23 @@
 ---
-title: "Welcome"
+title: "Hello!"
 ---
 
-![](E6_cover.png){fig-align="center" width="100%"}
 
-Here is the rest of my homepage content...
+::: {.columns}
+
+::: {.column width="55%"}
+I'm Moaaz. I am currently a Mathematics PhD candidate at the University of Oregon, expecting to graduate in 2027.
+I am fortunate to be working under the supervision of [Victor Ostrik](https://pages.uoregon.edu/vostrik/).
+
+Here is my [CV](cv.pdf){target="_blank"} - last updated: March, 2026
+
+contact email: malqady@uoregon.edu
+:::
+
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](me.png)
+:::

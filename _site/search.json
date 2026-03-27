@@ -5,5 +5,33 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "I’m Moaaz. I am currently a Mathematics PhD candidate at the University of Oregon, expecting to graduate in 2027. I am fortunate to be working under the supervision of Victor Ostrik.\nHere is my CV - last updated: March, 2026\ncontact email: malqady@uoregon.edu"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The \\(E_6\\) Dynkin diagram - illustrated by Emily Windes\n\n\nHere is where I will talk about my research."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Here is where I will list my teaching experience."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Hello!",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe \\(E_6\\) Dynkin diagram – a picture courtesy of Emily Windes↩︎"
   }
 ]

@@ -4,11 +4,8 @@ project:
 website:
   title: "Moaaz Alqady"
   navbar:
+    background: "#0D7758"
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: teaching.qmd
@@ -19,3 +16,4 @@ format:
     theme: darkly
     css: styles.css
     toc: true
+    link-external-newwindow: true
