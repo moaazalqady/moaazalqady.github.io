@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "About this site"
+    "text": "The \\(E_6\\) Dynkin diagram - illustrated by Emily Windes\n\n\nHere is where I will talk about my research."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Hello!",
     "section": "",
-    "text": "Here is the rest of my homepage content…"
+    "text": "I’m Moaaz. I am currently a Mathematics PhD candidate at the University of Oregon, expecting to graduate in 2027. I am fortunate to be working under the supervision of Victor Ostrik.\nHere is my CV - last updated: March, 2026\ncontact email: malqady@uoregon.edu"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Here is where I will list my teaching experience."
   }
 ]
