@@ -1,24 +1,24 @@
 [
   {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Here is where I will list my past and upcoming talks."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "The \\(E_6\\) Dynkin diagram - illustrated by Emily Windes\n\n\nHere is where I will talk about my research."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Welcome to My New Blog\n\n\n\nnews\n\nquarto\n\n\n\nA short description that will show up on the blog feed.\n\n\n\n\n\nMar 27, 2026\n\n\nYour Name\n\n\n\n\n\nNo matching items"
+    "text": "Here is where I will talk about my research."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello!",
     "section": "",
-    "text": "I’m Moaaz. I am currently a Mathematics PhD candidate at the University of Oregon, expecting to graduate in 2027. I am fortunate to be working under the supervision of Victor Ostrik.\nHere is my CV - last updated: March, 2026\ncontact email: malqady@uoregon.edu"
+    "text": "I’m Moaaz. I am currently a Mathematics PhD candidate at the University of Oregon, expecting to graduate in 2027. I am fortunate to be working under the supervision of Victor Ostrik.\nHere is my CV - last updated: March, 2026\n\nContact Information\nemail: malqady@uoregon.edu\nOffice: Fenton Hall 314-D,\n     University of Oregon\nOffice Hours: Mondays & Fridays 1-2 pm"
   },
   {
     "objectID": "teaching.html",
@@ -33,5 +33,19 @@
     "title": "Welcome to My New Blog",
     "section": "",
     "text": "Here is the actual content of my first blog post!\nYou can use all standard markdown, insert images, and write LaTeX equations just like you do on the rest of your website."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "An Infinite Hazelnut Tree: a Mathematical Blog",
+    "section": "",
+    "text": "The \\(E_6\\) Dynkin diagram - illustrated by Emily Windes\n\n\nThe namesake of the blog comes from Grothendieck’s famous quote from Récoltes et Semailles, where he likened the art of mathematical problem solving to trying to crack open a hard nut. In this blog, you will find a random assortment of nuts that currently interest me, that is articles about mathematical ideas and problems I find interesting and topics I am currently trying to learn.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My New Blog\n\n\n\nnews\n\nquarto\n\n\n\nA short description that will show up on the blog feed.\n\n\n\n\n\nMar 27, 2026\n\n\nYour Name\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Here is where I will list my outreach experience."
   }
 ]
