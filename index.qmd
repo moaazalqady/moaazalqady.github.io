@@ -1,3 +1,9 @@
 ---
-title: "Moaaz Alqady"
+title: "Welcome to my new website!"
 ---
+
+## Deployment Test
+
+If you can read this, and the background is dark, that means GitHub Actions is working perfectly!
+
+I am currently editing this site using **PyCharm** and pushing updates via **GitHub Desktop**.
