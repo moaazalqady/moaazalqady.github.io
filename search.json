@@ -7,6 +7,13 @@
     "text": "The \\(E_6\\) Dynkin diagram - illustrated by Emily Windes\n\n\nHere is where I will talk about my research."
   },
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to My New Blog\n\n\n\nnews\n\nquarto\n\n\n\nA short description that will show up on the blog feed.\n\n\n\n\n\nMar 27, 2026\n\n\nYour Name\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello!",
@@ -19,5 +26,12 @@
     "title": "Teaching",
     "section": "",
     "text": "Here is where I will list my teaching experience."
+  },
+  {
+    "objectID": "blogPosts/welcome/index.html",
+    "href": "blogPosts/welcome/index.html",
+    "title": "Welcome to My New Blog",
+    "section": "",
+    "text": "Here is the actual content of my first blog post!\nYou can use all standard markdown, insert images, and write LaTeX equations just like you do on the rest of your website."
   }
 ]
