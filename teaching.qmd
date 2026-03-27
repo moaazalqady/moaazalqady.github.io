@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+title-block-banner: true
 ---
 
 Here is where I will list my teaching experience.

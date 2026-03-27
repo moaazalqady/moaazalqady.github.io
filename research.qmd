@@ -1,5 +1,6 @@
 ---
 title: "Research"
+title-block-banner: true
 ---
 
 ![The $E_6$ Dynkin diagram - illustrated by [Emily Windes](https://emilyautumnwindes.com)](E6_cover_trans.png)
