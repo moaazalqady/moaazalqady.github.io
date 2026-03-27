@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+
+// 1. Import all 4 fonts from Google
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Aref+Ruqaa:wght@400;700&family=Lora:wght@400;700&family=Amiri:wght@400;700&family=Jura:wght@600;700&family=Kufam:wght@600;700&family=Fira+Sans:wght@400;700&family=Tajawal:wght@400;700&family=Oswald:wght@600;700&family=Lalezar&family=Ubuntu:wght@400;700&family=Cairo:wght@400;700&family=Inter:wght@400;700&family=IBM+Plex+Sans+Arabic:wght@400;700&family=Outfit:wght@400;700&family=Reem+Kufi:wght@400;700&display=swap');
+// 2. Define the exact Font Names
+// --- Body Text ---
+$body-en: 'Fira sans';
+$body-ar: 'Tajawal';
+
+// --- Header Text ---
+$header-en: 'Jura';
+$header-ar: 'Reem Kufi';
+
+// 3. Create the Two Font Stacks
+// Quarto variables automatically route these to the correct HTML tags
+$font-family-sans-serif: $body-en, $body-ar, sans-serif !default;
+$headings-font-family:   $header-en, $header-ar, sans-serif !default;
+
+
+/*-- scss:rules --*/
+
+// 4. Directionality & Scaling for Body Text
+[dir="rtl"] {
+  font-size: 1.15em; // Standard size bump for IBM Plex
+  line-height: 1.8;
+  text-align: right;
+}
+
+// 5. Special Scaling for Arabic Headers
+// Reem Kufi is structurally smaller than Outfit, so we give RTL headers an extra boost
+h1[dir="rtl"], h2[dir="rtl"], h3[dir="rtl"], h4[dir="rtl"],
+.title[dir="rtl"], .subtitle[dir="rtl"] {
+  font-size: 1.4em;
+  line-height: 1.5;
+  font-weight: 700;
+}

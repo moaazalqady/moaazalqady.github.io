@@ -4,7 +4,7 @@ title-block-banner: true
 toc: false
 ---
 
-[I am happy to share any materials I have for the courses I taught before. Please send me an email if you are interested.]{style="color: #0D7758; font-size: 0.8em;"}
+[I am happy to share any materials I have for the courses I taught before. Please send me an email if you are interested :)]{style="color: #0D7758; font-size: 1em;"}
 
 ## Department of Mathematics, University of Oregon
 

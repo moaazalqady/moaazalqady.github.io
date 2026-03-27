@@ -1,6 +1,17 @@
 ---
 title: "Talks"
 title-block-banner: true
+toc: false
 ---
 
 Here is where I will list my past and upcoming talks.
+
+
+## Research Talks
+
+
+## Expository Talks
+
+
+
+![1+1=1, as seen in Tarkovsky's movie [Nostalghia](https://en.wikipedia.org/wiki/Nostalghia)](1+1=1.png){fig-align="center" width="90%"}

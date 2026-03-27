@@ -54,4 +54,4 @@ I hope to repay this kindness by sharing my passion for mathematics with young a
     - Combinatorial Game Theory and Surreal Numbers, 2025
     - Lie Groups and Lie Algebras in the Foundations of Quantum Field Theory, 2025
 
-[I am happy to join mentorship programs, summer schools, etc. so if you are looking for someone who won't shut up about cool math to join your program, send me an email.]{style="color: #0D7758; font-size: 1em;"}
+[I am happy to join mentorship programs, summer schools, etc., so if you are looking for someone who is excited to share and learn cool math to join your program, send me an email :)]{style="color: #0D7758; font-size: 1em;"}

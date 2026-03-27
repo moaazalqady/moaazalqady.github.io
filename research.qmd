@@ -15,7 +15,7 @@ My current projects include:
 
 - Drinfeld centers of tensor categories arising from quantum group representations.
 
-[I am happy to give seminar talks about my research. If you are interested, please send me an email :)]{style="color: #0D7758; font-size: 1em;"}
+[I am happy to give seminar talks about my research. If you are interested, please send me an email.]{style="color: #0D7758; font-size: 1em;"}
 
 
 ## Papers and Preprints
@@ -57,4 +57,4 @@ My current projects include:
     This improves upon the previous best bound of $\Omega(n^{4/5})$.
     We also characterize the sets that span an asymptotically minimal number of distinct distances under the $\ell_1$ and $\ell_\infty$ metrics.
 
-- I wrote an expository [undergraduate thesis](undergradThesis.pdf){target="_blank"} on the fundamental group of wild (non-semilocally simply-connected) spaces
+- I wrote an expository [undergraduate thesis](undergradThesis.pdf){target="_blank"} on the fundamental group of wild (non-semilocally simply-connected) spaces. My thesis was supervised by [Michel Hébert](https://www.aucegypt.edu/fac/michel-hebert).

@@ -19,7 +19,9 @@ website:
 
 format:
   html:
-    theme: darkly
-    css: styles.css
+    theme:
+      - darkly
+      - styles.scss
+    css: styles.scss
     toc: true
     link-external-newwindow: true

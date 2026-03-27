@@ -19,6 +19,7 @@ In this blog, you will find a random assortment of nuts that I find especially i
 Some posts will be intended for general audience with no formal mathematical training (tagged "general audience"), some will be at the undergraduate level and assume some basic undergraduate math knowledge (tagged: "undergrad"), and others will be expositions on topics I am thinking/learning about in my own research area (tagged: "research").
 The "general audience" posts will be written in Arabic and English as an attempt to give people who have not (yet) started learning mathematics in English the opportunity to see what mathematics is about beyond the high school level; such a resource was not available to me when I was a young student myself, and that's my main motivation for making this blog: to share the beauty of mathematics to native Arabic speakers at the broadest possible level.
 
+
 تستمد هذه المدوّنة اسمها من مقولة شهيرة لعالم الرياضيات "جروتينديك" في كتابه [*Récoltes et Semailles*]{dir="ltr"}، حيث شبّه فن حل المسائل الرياضية بمحاولة كسر قشرة حبة بندق صلبة.
 في هذه المدوّنة، ستجدون تشكيلة عشوائية من "حبات البندق" التي أجدها مثيرة للاهتمام، مقتطفات من شجرة الرياضيات الجميلة.
 
