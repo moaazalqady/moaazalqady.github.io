@@ -5,5 +5,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my new website!",
+    "section": "",
+    "text": "If you can read this, and the background is dark, that means GitHub Actions is working perfectly!\nI am currently editing this site using PyCharm and pushing updates via GitHub Desktop."
+  },
+  {
+    "objectID": "index.html#deployment-test",
+    "href": "index.html#deployment-test",
+    "title": "Welcome to my new website!",
+    "section": "",
+    "text": "If you can read this, and the background is dark, that means GitHub Actions is working perfectly!\nI am currently editing this site using PyCharm and pushing updates via GitHub Desktop."
   }
 ]
