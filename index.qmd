@@ -1,9 +1,7 @@
 ---
-title: "Welcome to my new website!"
+title: "Welcome"
 ---
 
-## Deployment Test
+![](E6_cover.png){fig-align="center" width="100%"}
 
-If you can read this, and the background is dark, that means GitHub Actions is working perfectly!
-
-I am currently editing this site using **PyCharm** and pushing updates via **GitHub Desktop**.
+Here is the rest of my homepage content...
