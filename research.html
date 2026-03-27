@@ -71,11 +71,40 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -95,10 +124,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link active" href="./research.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./talks.html"> 
-<span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
@@ -139,9 +164,7 @@ ul.task-list li input[type="checkbox"] {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -149,9 +172,39 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Here is where I will talk about my research.</p>
+<p>My research lies primarily in the areas of representation theory and quantum algebra. More specifically, I study tensor categories and representation theory of quantum groups. I am also interested in their applications to the study of topological quantum field theory, topological quantum computing, and invariants of links and manifolds.</p>
+<p>My current projects include:</p>
+<ul>
+<li><p>Web categories arising from crystal limits of quantum group representations.</p></li>
+<li><p>Drinfeld centers of tensor categories arising from quantum group representations.</p></li>
+</ul>
+<p><span style="color: #0D7758; font-size: 1em;">I am happy to give seminar talks about my research. If you are interested, please send me an email :)</span></p>
+<section id="papers-and-preprints" class="level2">
+<h2 class="anchored" data-anchor-id="papers-and-preprints">Papers and Preprints</h2>
+<ul>
+<li><p>The Drinfeld Center of the Generic Temperley–Lieb Category. Preprint, 2026. <a href="???">arXiv: ???</a></p>
+<p>We show that the Temperley–Lieb category <span class="math inline">\(\mathrm{TL}(q;\mathbb{C})\)</span> embeds in an ultraproduct of modular tensor categories when <span class="math inline">\(q\)</span> is not a root of unity. As a result, we show that its Drinfeld center is semisimple and describe its simple objects. The canonical functor <span class="math display">\[\mathrm{TL}(q;\mathbb{C})\boxtimes \mathrm{TL}(q;\mathbb{C})^{\mathrm{rev}} \boxtimes \mathrm{Rep}(\mathbb{Z}/2\mathbb{Z}) \to \mathcal Z(\mathrm{TL}(q;\mathbb{C})),\]</span> induced by the braiding and the <span class="math inline">\(\mathbb{Z}/2\mathbb{Z}\)</span>–grading on the Temperley–Lieb category, is thus shown to be a monoidal equivalence, which becomes a braided equivalence upon twisting the braiding by a certain bicharacter. Along the way, we formalize some general results about ultraproducts of tensor categories and tensor functors, building on earlier works of Crumley, Harman, and Flake–Harman–Laugwitz. We also discuss the center at some exceptional values of <span class="math inline">\(q\)</span>.</p></li>
+<li><p>A Coboundary Temperley–Lieb Category for <span class="math inline">\(\mathfrak{sl}_{2}\)</span>-Crystals. Joint with <a href="https://sites.google.com/view/stroinski">Mateusz Stroiński</a>. <a href="https://doi.org/10.1112/jlms.70283">J. London Math. Soc., 112: e70283</a>, 2025.</p>
+<p>By considering a suitable renormalization of the Temperley–Lieb category, we study its specialization to the case <span class="math inline">\(q=0\)</span>. Unlike the <span class="math inline">\(q\neq 0\)</span> case, the obtained monoidal category, <span class="math inline">\(\mathrm{TL}_0(\mathbb{K})\)</span>, is not rigid or braided. We provide a closed formula for the Jones–Wenzl projectors in <span class="math inline">\(\mathrm{TL}_0(\mathbb{K})\)</span> and give semisimple bases for its endomorphism algebras. We explain how to obtain the same basis using the representation theory of finite inverse monoids, via the associated Möbius inversion. We then describe a coboundary structure on <span class="math inline">\(\mathrm{TL}_0(\mathbb{K})\)</span> and show that its idempotent completion is coboundary monoidally equivalent to the category of <span class="math inline">\(\mathfrak{sl}_{2}\)</span>-crystals. This gives a diagrammatic description of the commutor for <span class="math inline">\(\mathfrak{sl}_{2}\)</span>-crystals defined by Henriques and Kamnitzer and of the resulting action of the cactus group. We also study fiber functors of <span class="math inline">\(\mathrm{TL}_0(\mathbb{K})\)</span> and discuss how they differ from the <span class="math inline">\(q\neq 0\)</span> case.</p></li>
+</ul>
+</section>
+<section id="upcoming-papers" class="level2">
+<h2 class="anchored" data-anchor-id="upcoming-papers">Upcoming papers</h2>
+<ul>
+<li><p>Crystal Spiders for Rank 2 Lie Algebras.</p>
+<p>We give a diagrammatic monoidal presentation of the categories of <span class="math inline">\(\mathfrak g\)</span>-crystals, where <span class="math inline">\(\mathfrak{g}\)</span> is a rank 2 Lie algebra. We study those diagrammatic categories, their Jones-Wenzl projectors, cactus actions, etc.</p></li>
+</ul>
+</section>
+<section id="undergraduate-work" class="level2">
+<h2 class="anchored" data-anchor-id="undergraduate-work">Undergraduate Work</h2>
+<ul>
+<li><p>Distinct Distances with <span class="math inline">\(\ell_p\)</span> Metrics. Joint with Polymath REU. <a href="https://doi.org/10.1016/j.comgeo.2021.101785">Computational Geometry 100:101785</a>, 2022. <span style="color: #0D7758; font-size: 0.8em;">This paper received the Journal’s award for best paper written by authors under 35 years old, yay!</span></p>
+<p>We study Erdős’s distinct distances problem under <span class="math inline">\(\ell_p\)</span> metrics with integer <span class="math inline">\(p\)</span>. We prove that, for every <span class="math inline">\(\varepsilon&gt;0\)</span> and <span class="math inline">\(n\)</span> points in <span class="math inline">\(\mathbb{R}^2\)</span>, there exists a point that spans <span class="math inline">\(\Omega(n^{6/7-\varepsilon})\)</span> distinct distances with the other <span class="math inline">\(n-1\)</span> points. This improves upon the previous best bound of <span class="math inline">\(\Omega(n^{4/5})\)</span>. We also characterize the sets that span an asymptotically minimal number of distinct distances under the <span class="math inline">\(\ell_1\)</span> and <span class="math inline">\(\ell_\infty\)</span> metrics.</p></li>
+<li><p>I wrote an expository <a href="undergradThesis.pdf" target="_blank">undergraduate thesis</a> on the fundamental group of wild (non-semilocally simply-connected) spaces</p></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
