@@ -4,7 +4,7 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Here is where I will list my past and upcoming talks."
+    "text": "Here is where I will list my past and upcoming talks + slides."
   },
   {
     "objectID": "talks.html#research-talks",
@@ -39,14 +39,14 @@
     "href": "research.html#upcoming-papers",
     "title": "Research",
     "section": "Upcoming papers",
-    "text": "Upcoming papers\n\nCrystal Spiders for Rank 2 Lie Algebras.\nWe give a diagrammatic monoidal presentation of the categories of \\(\\mathfrak g\\)-crystals, where \\(\\mathfrak{g}\\) is a rank 2 Lie algebra. We study those diagrammatic categories, their Jones-Wenzl projectors, cactus actions, etc."
+    "text": "Upcoming papers\n\nCrystal Spiders for Rank 2 Lie Algebras.\nWe give diagrammatic monoidal presentations of the categories of \\(\\mathfrak g\\)-crystals, where \\(\\mathfrak{g}\\) is a rank 2 Lie algebra. We study those categories, their Jones-Wenzl projectors, cactus actions, etc."
   },
   {
     "objectID": "research.html#undergraduate-work",
     "href": "research.html#undergraduate-work",
     "title": "Research",
     "section": "Undergraduate Work",
-    "text": "Undergraduate Work\n\nDistinct Distances with \\(\\ell_p\\) Metrics. Joint with Polymath REU. Computational Geometry 100:101785, 2022. This paper received the Journal’s award for best paper written by authors under 35 years old, yay!\nWe study Erdős’s distinct distances problem under \\(\\ell_p\\) metrics with integer \\(p\\). We prove that, for every \\(\\varepsilon&gt;0\\) and \\(n\\) points in \\(\\mathbb{R}^2\\), there exists a point that spans \\(\\Omega(n^{6/7-\\varepsilon})\\) distinct distances with the other \\(n-1\\) points. This improves upon the previous best bound of \\(\\Omega(n^{4/5})\\). We also characterize the sets that span an asymptotically minimal number of distinct distances under the \\(\\ell_1\\) and \\(\\ell_\\infty\\) metrics.\nI wrote an expository undergraduate thesis on the fundamental group of wild (non-semilocally simply-connected) spaces. My thesis was supervised by Michel Hébert."
+    "text": "Undergraduate Work\n\nDistinct Distances with \\(\\ell_p\\) Metrics. Joint with Polymath REU. Computational Geometry 100:101785, 2022. This paper the CGTA Young Researchers Award for best paper written by authors under 35 years old!\nWe study Erdős’s distinct distances problem under \\(\\ell_p\\) metrics with integer \\(p\\). We prove that, for every \\(\\varepsilon&gt;0\\) and \\(n\\) points in \\(\\mathbb{R}^2\\), there exists a point that spans \\(\\Omega(n^{6/7-\\varepsilon})\\) distinct distances with the other \\(n-1\\) points. This improves upon the previous best bound of \\(\\Omega(n^{4/5})\\). We also characterize the sets that span an asymptotically minimal number of distinct distances under the \\(\\ell_1\\) and \\(\\ell_\\infty\\) metrics.\nI wrote an expository undergraduate thesis on the fundamental group of wild (non-semilocally simply-connected) spaces. My thesis was supervised by Michel Hébert."
   },
   {
     "objectID": "index.html",
