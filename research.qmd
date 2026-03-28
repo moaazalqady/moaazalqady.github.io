@@ -40,17 +40,17 @@ My current projects include:
 
 ## Upcoming papers
 
+
 - Crystal Spiders for Rank 2 Lie Algebras.
 
-    We give a diagrammatic monoidal presentation of the categories of $\mathfrak g$-crystals, where $\mathfrak{g}$ is a rank 2 Lie algebra.
-    We study those diagrammatic categories, their Jones-Wenzl projectors, cactus actions, etc.
-
+    We give diagrammatic monoidal presentations of the categories of $\mathfrak g$-crystals, where $\mathfrak{g}$ is a rank 2 Lie algebra.
+    We study those categories, their Jones-Wenzl projectors, cactus actions, etc.
 
 
 ## Undergraduate Work
 
 - Distinct Distances with $\ell_p$ Metrics. Joint with Polymath REU. [Computational Geometry 100:101785](https://doi.org/10.1016/j.comgeo.2021.101785), 2022.
-[This paper received the Journal's award for best paper written by authors under 35 years old, yay!]{style="color: #0D7758; font-size: 0.8em;"}
+[This paper the CGTA Young Researchers Award for best paper written by authors under 35 years old!]{style="color: #0D7758; font-size: 0.8em;"}
 
     We study Erdős's distinct distances problem under $\ell_p$ metrics with integer $p$.
     We prove that, for every $\varepsilon>0$ and $n$ points in $\mathbb{R}^2$, there exists a point that spans $\Omega(n^{6/7-\varepsilon})$ distinct distances with the other $n-1$ points.

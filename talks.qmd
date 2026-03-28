@@ -4,7 +4,7 @@ title-block-banner: true
 toc: false
 ---
 
-Here is where I will list my past and upcoming talks.
+Here is where I will list my past and upcoming talks + slides.
 
 
 ## Research Talks
